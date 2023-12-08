@@ -1,6 +1,8 @@
 leftnav:
-- identifier: external-583830379-1670358756563
+- identifier: external-583830379-1702024141762
   name: Fall 2022 Course
+  params:
+    includeLicenseWarning: false
   url: https://manipulation.csail.mit.edu/Fall2022/
   weight: 10
 - identifier: external--1761751855-1670358769802
